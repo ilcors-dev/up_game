@@ -338,3 +338,9 @@ ASALocalRun/
 
 # BeatPulse healthcheck temp database
 healthchecksdb
+
+/Temp/UnityLockfile
+Assembly-CSharp.csproj
+Library/EditorInstance
+Library/StateCache/Hierarchy
+Library/StateCache/Hierarchy/56cb47-mainStage.json
